@@ -187,7 +187,7 @@ a{
 
     @media (max-width: 1399px) {
         .container{
-            width: 1000px;
+            width: 866px;
             padding: 0 15px;
     
         }
@@ -198,7 +198,7 @@ a{
 
     @media (max-width: 800px) {
         .container{
-            width: 500px;
+            width: 415px;
             padding: 0 15px;
     
         }
